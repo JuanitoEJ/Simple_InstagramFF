@@ -1,0 +1,164 @@
+	* {
+	margin: 0;
+  padding-bottom: 15px;
+  box-sizing: border-box;
+	}
+  body {
+    background-color: #E6E6E6;
+    font-family: montserrat, arial, verdana;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 30px;
+    }
+    div{
+
+    }
+.dimension{
+  margin top: 25px;
+  margin-bottom: 25px;
+}
+.header {
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  }
+  /*Bloque Uno*/
+.cabezera1 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  position: 0;
+  padding-top: 10px; 
+	}
+
+.imagen1 {
+  background: url(../img/husky.jpg) no-repeat;
+  background-color: #F09A9D;    /* Red */
+  margin: auto;
+  max-width: 600px;
+  height: 440px;
+  text-align: center;
+  top: 25px;
+  position: 0;  
+  }
+
+.footer1 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  position: 0; 
+  line-height: 15px; 
+  }
+    /*Bloque Dos*/
+.cabezera2 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  bottom: 25px;
+  position: 0;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  }
+
+.imagen2 {
+  background: url(../img/cone.jpg) no-repeat;
+  background-color: #F09A9D;    /* Red */
+  margin: auto;
+  max-width: 600px;
+  height: 440px;
+  text-align: center;
+  top: 25px;
+  position: 0;  
+  }
+
+.footer2 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  position: 0; 
+  line-height: 15px; 
+  }
+      /*Bloque Tres*/
+.cabezera3 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  bottom: 25px;
+  position: 0;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  }
+
+.imagen3 {
+  background: url(../img/paparazzi.jpg) no-repeat;
+  background-color: #F09A9D;    /* Red */
+  margin: auto;
+  max-width: 600px;
+  height: 440px;
+  text-align: center;
+  top: 25px;
+  position: 0;  
+  }
+
+.footer3 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  position: 0; 
+  line-height: 15px; 
+  }
+      /*Bloque Cuatro*/
+.cabezera4 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  bottom: 25px;
+  position: 0;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  }
+
+.imagen4 {
+  background: url(../img/pizza.jpg) no-repeat;
+  background-color: #F09A9D;    /* Red */
+  margin: auto;
+  max-width: 600px;
+  height: 440px;
+  text-align: center;
+  top: 25px;
+  position: 0;  
+  }
+
+.footer4 {
+  background-color: white;    /* white */
+  margin: auto;
+  max-width: 600px;
+  height: 50px;
+  text-align: left;
+  top: 25px;
+  position: 0; 
+  line-height: 15px; 
+  }
